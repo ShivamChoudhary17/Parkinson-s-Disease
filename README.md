@@ -1,8 +1,8 @@
 # Parkinson's Disease
 
 #### Content-
-- Abstract
 - DataSet
+- Abstract
 - About DataSet
 - Data Set Information
 
@@ -57,11 +57,3 @@ Max A. Little, Patrick E. McSharry, Eric J. Hunter, Lorraine O. Ramig (2008),
 IEEE Transactions on Biomedical Engineering (to appear).
 
 > - ____________________________________________________________________________________________________________________________________________________________________________
-
-
-
-
-
-
-
-
