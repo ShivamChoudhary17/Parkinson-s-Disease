@@ -2,5 +2,5 @@
 
 > - ______________________________________________________________________________________________________________________________________________________________________________
 
-![image](https://storage.googleapis.com/kaggle-datasets-images/486701/907414/b4ff652dfed646e8d65571a851420a49/dataset-cover.jpg?t=2020-01-23-00-20-01)
+![image](https://dementiatoday.net/wp-content/uploads/2020/05/Parkinsons-Disease-Dementi.jpg)
 
